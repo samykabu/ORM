@@ -1,0 +1,14 @@
+Building Project: DataObjectGen
+Output Folder: D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\InstallAware\Release\Uncompressed\
+Deployment Type: Uncompressed Directory Layout
+Code Signing: Disabled
+Compression: Best
+Compiler Variables: UAC=asInvoker,UAC=asInvoker
+###
+Cleared output folder D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\InstallAware\Release\Uncompressed\
+Built plug-in action Windows Installer
+Built plug-in action .NET Framework
+Built plug-in action (Un)Install MSI Setup
+Built plug-in action Windows Installer
+Built plug-in action .NET Framework
+Error during build: Aborted by user

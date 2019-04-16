@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="6D59D6A8-B8DD-4D9B-9AEF-0897D9165DFC" ModuleId="CodeGenerator" />
+  <Module PersistentId="05AF8F56-439F-41D0-AA08-ECCE33621D43" ModuleId="DataObjectGen" />
+  <Module PersistentId="1CDBE597-4FE1-4605-BF26-58947182859B" ModuleId="Sql2005Server" />
+  <Module PersistentId="3CE96A1E-0D22-448D-9345-098C6E13E050" ModuleId="SchemaObjects" />
+</Modules>

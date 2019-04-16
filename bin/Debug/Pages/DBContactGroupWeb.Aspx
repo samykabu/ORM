@@ -1,0 +1,3 @@
+<asp:Label Text="IsClientInternal" ID="IsClientInternallbl" runat="server" AssociatedControlID="IsClientInternaltxb" /><asp:TextBox ID="IsClientInternaltxb" runat="server" /><asp:RequiredFieldValidator ID="IsClientInternalVal" runat="server" ControlToValidate="IsClientInternaltxb" ErrorMessage="*" Text="*"/>
+<asp:Label Text="ClientID" ID="ClientIDlbl" runat="server" AssociatedControlID="ClientIDdrp" /><asp:DropDownList ID="ClientIDdrp" runat="server" />
+<asp:Label Text="Title" ID="Titlelbl" runat="server" AssociatedControlID="Titletxb" /><asp:TextBox ID="Titletxb" runat="server" /><asp:RequiredFieldValidator ID="TitleVal" runat="server" ControlToValidate="Titletxb" ErrorMessage="*" Text="*"/>

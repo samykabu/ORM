@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CodeGenerator.Classes">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeGenerator.Class">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGAAAAACABAEAAAAIARSAAAAMIIKAAAAAAAGCEg=</HashCode>
+      <FileName>Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeGenerator.ITemplate">
+    <Position X="10.5" Y="1" Width="2.75" />
+    <NestedTypes>
+      <Delegate Name="CodeGenerator.ITemplate.OnProcessingDatabaseObject" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ITemplate.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="CodeGenerator.ITemplate.OnCompleteProcessing" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ITemplate.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAAAAAAgAAAAAAAEAgAAAQAAAAAAAAAAQAAAAAAAAgA=</HashCode>
+      <FileName>ITemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeGenerator.Methods">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Method.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeGenerator.Method">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAEAAABIAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Method.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeGenerator.Properties">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Method.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CodeGenerator.Property">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAEAAABIAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Method.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

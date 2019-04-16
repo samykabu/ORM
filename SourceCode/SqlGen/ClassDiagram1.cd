@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sql2005Server.DataTypedSetTemplate">
+    <Position X="4.75" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAABBgAAAAABAMAiAAAAAAAAAgAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>DataTypedSetTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sql2005Server.SchemaProvider.SQL2005SchemaProvider">
+    <Position X="1.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QgAAAAAAAAAAAAAABAAAQIAKAAgAQACEAAAAAACACAA=</HashCode>
+      <FileName>SQL2005SchemaProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sql2005Server.TableToClassTemplate">
+    <Position X="7.5" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AECAAEAoIACAABAEAogIACAQAAAAIAACEEAAAAAAAgA=</HashCode>
+      <FileName>TableToClassTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sql2005Server.TableToPartialClassTemplate">
+    <Position X="7.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAACAABAEAgAAAAAQAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>TableToPartialClassTemplate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sql2005Server.TableStoredProcedures">
+    <Position X="11.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgABAAIBAEAgAYAABAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>TableStoredProcedures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,84 @@
+Install Files
+Create Shortcut
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+Install Assembly
+$
+{15C52944-2B54-412C-9525-835CCD8B1043}
+{E72A3235-75B1-4E2B-90D0-E945F3218A91}
+{26D7DFBF-D965-4DF5-81BD-BC1E81E2ECC0}
+{FB45468B-D424-4730-B9FD-77C59C49FD1C}
+{3FE2573F-B3EF-4CFC-9434-AA4D6B85D5F7}
+{75986700-E519-493F-A7A3-0924D93A9EE6}
+{AFA3616C-595E-40F8-AC2B-91750F1A12CB}
+{6AFAA38E-AFA4-4CFA-B8A7-123B67294511}
+$
+{15C52944-2B54-412C-9525-835CCD8B1043}
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\bin\Debug\DataObjectGen.exe
+FALSE
+$TARGETDIR$
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+{E72A3235-75B1-4E2B-90D0-E945F3218A91}
+$TARGETDIR$\DataObjectGen.exe
+DataObjectGen
+$SHORTCUTFOLDER$
+DataObjectGen
+
+
+
+
+0
+{26D7DFBF-D965-4DF5-81BD-BC1E81E2ECC0}
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\CodeGenerator\bin\Debug\CodeGenerator.dll
+FALSE
+$TARGETDIR$
+{FB45468B-D424-4730-B9FD-77C59C49FD1C}
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\DataBaseManagerInterface\bin\Debug\SchemaObjects.dll
+FALSE
+$TARGETDIR$
+{3FE2573F-B3EF-4CFC-9434-AA4D6B85D5F7}
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\bin\Debug\Sql2005Server.dll
+FALSE
+$TARGETDIR$
+{75986700-E519-493F-A7A3-0924D93A9EE6}
+C:\Program Files (x86)\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.ConnectionInfo.dll
+TRUE
+
+{AFA3616C-595E-40F8-AC2B-91750F1A12CB}
+C:\Program Files (x86)\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+TRUE
+
+{6AFAA38E-AFA4-4CFA-B8A7-123B67294511}
+C:\Program Files (x86)\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.Smo.dll
+TRUE
+
+$
+
+
+
+
+
+
+
+
+$
+
+
+
+
+
+
+
+
+$

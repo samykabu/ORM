@@ -1,0 +1,24 @@
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\bin\Debug\Sql2005Server.dll
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\bin\Debug\Sql2005Server.pdb
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\bin\Debug\CodeGenerator.dll
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\bin\Debug\SchemaObjects.dll
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\bin\Debug\CodeGenerator.pdb
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\bin\Debug\SchemaObjects.pdb
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\obj\Debug\ResolveAssemblyReference.cache
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\obj\Debug\Sql2005Server.SchemaProvider.Forms.ConnectionBuilder.resources
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\obj\Debug\ResGen.read.1.tlog
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\obj\Debug\ResGen.write.1.tlog
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\obj\Debug\Sql2005Server.dll
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\obj\Debug\Sql2005Server.pdb
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\bin\Debug\Sql2005Server.dll
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\bin\Debug\Sql2005Server.pdb
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\bin\Debug\CodeGenerator.dll
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\bin\Debug\SchemaObjects.dll
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\bin\Debug\CodeGenerator.pdb
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\bin\Debug\SchemaObjects.pdb
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\obj\Debug\ResolveAssemblyReference.cache
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\obj\Debug\Sql2005Server.SchemaProvider.Forms.ConnectionBuilder.resources
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\obj\Debug\ResGen.read.1.tlog
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\obj\Debug\ResGen.write.1.tlog
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\obj\Debug\Sql2005Server.dll
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\obj\Debug\Sql2005Server.pdb

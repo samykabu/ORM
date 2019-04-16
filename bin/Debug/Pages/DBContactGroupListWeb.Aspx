@@ -1,0 +1,2 @@
+<asp:Label Text="ContcatID" ID="ContcatIDlbl" runat="server" AssociatedControlID="ContcatIDdrp" /><asp:DropDownList ID="ContcatIDdrp" runat="server" /><asp:RequiredFieldValidator ID="ContcatIDVal" runat="server" ControlToValidate="ContcatIDdrp" ErrorMessage="*" Text="*"/>
+<asp:Label Text="ContactGroupID" ID="ContactGroupIDlbl" runat="server" AssociatedControlID="ContactGroupIDdrp" /><asp:DropDownList ID="ContactGroupIDdrp" runat="server" /><asp:RequiredFieldValidator ID="ContactGroupIDVal" runat="server" ControlToValidate="ContactGroupIDdrp" ErrorMessage="*" Text="*"/>

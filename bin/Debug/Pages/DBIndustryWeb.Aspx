@@ -1,0 +1,1 @@
+<asp:Label Text="Name" ID="Namelbl" runat="server" AssociatedControlID="Nametxb" /><asp:TextBox ID="Nametxb" runat="server" /><asp:RequiredFieldValidator ID="NameVal" runat="server" ControlToValidate="Nametxb" ErrorMessage="*" Text="*"/>

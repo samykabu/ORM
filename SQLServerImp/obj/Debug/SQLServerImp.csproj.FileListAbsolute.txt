@@ -1,0 +1,14 @@
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SQLServerImp\bin\Debug\SQLServerImp.dll
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SQLServerImp\bin\Debug\SQLServerImp.pdb
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SQLServerImp\bin\Debug\DatabaseObjects.dll
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SQLServerImp\bin\Debug\DatabaseObjects.pdb
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SQLServerImp\obj\Debug\ResolveAssemblyReference.cache
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SQLServerImp\obj\Debug\SQLServerImp.dll
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SQLServerImp\obj\Debug\SQLServerImp.pdb
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SQLServerImp\bin\Debug\SQLServerImp.dll
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SQLServerImp\bin\Debug\SQLServerImp.pdb
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SQLServerImp\bin\Debug\DatabaseObjects.dll
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SQLServerImp\bin\Debug\DatabaseObjects.pdb
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SQLServerImp\obj\Debug\ResolveAssemblyReference.cache
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SQLServerImp\obj\Debug\SQLServerImp.dll
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\SQLServerImp\obj\Debug\SQLServerImp.pdb

@@ -1,0 +1,4 @@
+<asp:Label Text="Name" ID="Namelbl" runat="server" AssociatedControlID="Nametxb" /><asp:TextBox ID="Nametxb" runat="server" /><asp:RequiredFieldValidator ID="NameVal" runat="server" ControlToValidate="Nametxb" ErrorMessage="*" Text="*"/>
+<asp:Label Text="LoginID" ID="LoginIDlbl" runat="server" AssociatedControlID="LoginIDtxb" /><asp:TextBox ID="LoginIDtxb" runat="server" /><asp:RequiredFieldValidator ID="LoginIDVal" runat="server" ControlToValidate="LoginIDtxb" ErrorMessage="*" Text="*"/>
+<asp:Label Text="LastLogin" ID="LastLoginlbl" runat="server" AssociatedControlID="LastLogintxb" /><asp:TextBox ID="LastLogintxb" runat="server" />
+<asp:Label Text="Password" ID="Passwordlbl" runat="server" AssociatedControlID="Passwordtxb" /><asp:TextBox ID="Passwordtxb" runat="server" /><asp:RequiredFieldValidator ID="PasswordVal" runat="server" ControlToValidate="Passwordtxb" ErrorMessage="*" Text="*"/>

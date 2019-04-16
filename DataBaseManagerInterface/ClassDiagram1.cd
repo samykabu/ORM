@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="SchemaObjects.IDataBaseObject">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>IDataBaseObject.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchemaObjects.ISchemaProvider">
+    <Position X="10.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ISchemaProvider.cs</FileName>
+      <HashCode>QgAAAAAAAAAAAAAABAAAQIAIAAAAQAAEAAAAAACACAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchemaObjects.Tables">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DB\Collections.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchemaObjects.Views">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DB\Collections.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchemaObjects.StoredProcedures">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DB\Collections.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchemaObjects.StoredProcedureParameters">
+    <Position X="1" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DB\Collections.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchemaObjects.Column">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DB\Column.cs</FileName>
+      <HashCode>gAIBAAQAAAAgAAAAAAIoIIRACABgAAAEAAAAAAAAIgE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchemaObjects.DataBase">
+    <Position X="7.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DB\DataBase.cs</FileName>
+      <HashCode>QgAAAAAAAAAAAIAAACAAcAQAAAIAYAAAAAAABABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchemaObjects.Key">
+    <Position X="1" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DB\Keys.cs</FileName>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAABAAAAAAgAQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchemaObjects.Keys">
+    <Position X="3.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DB\Keys.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchemaObjects.StoredProcedure">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DB\StoredProcedure.cs</FileName>
+      <HashCode>AAAAQAAAAAAgAAAAAAAAIAQAAAAAAAEEAIAAAAAAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchemaObjects.Parameter">
+    <Position X="3.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DB\StoredProcedure.cs</FileName>
+      <HashCode>AABAAAAAAAAAAAAAAAAgIIQQAAAAAAAAAAAAAEAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchemaObjects.Table">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DB\Table.cs</FileName>
+      <HashCode>AAAABAAAAAgyIAAAAAABIAQAAAAEAAEFAAAAkAgAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchemaObjects.View">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DB\View.cs</FileName>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAIAQAAAAAAAEFAAAAAAgAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SchemaObjects.IConnectionStringBuilder">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>IConnectionStringBuilder.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="SchemaObjects.DataBaseObjects">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DB\DataBase.cs</FileName>
+      <HashCode>QgAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<iasettings>
+  <projectproperties>
+    <manufacturer>Administrator</manufacturer>
+    <productname>DataObjectGen</productname>
+    <productversion>1.0.0.0</productversion>
+    <productcode>{f0f42e02-2ea8-4e85-b730-e2c1ef6be9ab}</productcode>
+    <upgradecode>{b7f673a0-9338-441e-aae6-af97a047a37b}</upgradecode>
+    <language>0</language>
+    <languagename>English</languagename>
+  </projectproperties>
+  <summary>
+    <title>DataObjectGen</title>
+    <subject>DataObjectGen</subject>
+    <author>Administrator</author>
+    <summarycomments>DataObjectGen</summarycomments>
+    <revisioncode>{b625c327-dbf3-4705-a6c0-4c97d81b1d99}</revisioncode>
+    <uacelevation>asInvoker</uacelevation>
+  </summary>
+  <addremove>
+    <publishername>Administrator</publishername>
+    <contactname>Administrator</contactname>
+    <helplink>http://www.mywebsite.com</helplink>
+    <productupdatelink>http://www.mywebsite.com</productupdatelink>
+    <addremovecomments>All Rights Reserved</addremovecomments>
+    <iconfile />
+  </addremove>
+  <codegen>
+    <generateincludefiles>1</generateincludefiles>
+    <generatefeatures>0</generatefeatures>
+    <refreshscript>0</refreshscript>
+  </codegen>
+  <compilervariables>
+    <variables />
+  </compilervariables>
+  <build>
+    <buildtype>0</buildtype>
+  </build>
+  <files>
+    <filedetails filename="D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\bin\Debug\DataObjectGen.exe" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="1" runprogram="1" installfilecommand="1" />
+    <filedetails filename="D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\CodeGenerator\bin\Debug\CodeGenerator.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <filedetails filename="D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\DataBaseManagerInterface\bin\Debug\SchemaObjects.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <filedetails filename="D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\SqlGen\bin\Debug\Sql2005Server.dll" targetlocation="$TARGETDIR$" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+  </files>
+  <dependencies>
+    <dependencydetails filename="C:\Program Files (x86)\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.ConnectionInfo.dll" targetlocation="GAC" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Program Files (x86)\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.Management.Sdk.Sfc.dll" targetlocation="GAC" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+    <dependencydetails filename="C:\Program Files (x86)\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.Smo.dll" targetlocation="GAC" generatenativeimage="0" registerassembly="0" runinstallerclass="0" createshortcut="0" runprogram="0" installfilecommand="0" />
+  </dependencies>
+  <dialogtheme>
+    <themename>Official</themename>
+  </dialogtheme>
+  <authenticode>
+    <sign>0</sign>
+    <certificatefile />
+    <keyfile />
+    <productinfourl />
+    <authpassword />
+    <timestampurl />
+  </authenticode>
+  <compression>
+    <compressiontype>4</compressiontype>
+    <encrypt>0</encrypt>
+    <compressionpassword />
+  </compression>
+  <output>
+    <outputtype>0</outputtype>
+    <location />
+    <filename />
+    <calculatefilehash>0</calculatefilehash>
+    <refreshrevisioncode>1</refreshrevisioncode>
+  </output>
+</iasettings>

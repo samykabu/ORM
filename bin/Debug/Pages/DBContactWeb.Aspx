@@ -1,0 +1,10 @@
+<asp:Label Text="Mobile" ID="Mobilelbl" runat="server" AssociatedControlID="Mobiletxb" /><asp:TextBox ID="Mobiletxb" runat="server" /><asp:RequiredFieldValidator ID="MobileVal" runat="server" ControlToValidate="Mobiletxb" ErrorMessage="*" Text="*"/>
+<asp:Label Text="FirstName" ID="FirstNamelbl" runat="server" AssociatedControlID="FirstNametxb" /><asp:TextBox ID="FirstNametxb" runat="server" /><asp:RequiredFieldValidator ID="FirstNameVal" runat="server" ControlToValidate="FirstNametxb" ErrorMessage="*" Text="*"/>
+<asp:Label Text="MName" ID="MNamelbl" runat="server" AssociatedControlID="MNametxb" /><asp:TextBox ID="MNametxb" runat="server" />
+<asp:Label Text="Email" ID="Emaillbl" runat="server" AssociatedControlID="Emailtxb" /><asp:TextBox ID="Emailtxb" runat="server" /><asp:RequiredFieldValidator ID="EmailVal" runat="server" ControlToValidate="Emailtxb" ErrorMessage="*" Text="*"/>
+<asp:Label Text="Phone" ID="Phonelbl" runat="server" AssociatedControlID="Phonetxb" /><asp:TextBox ID="Phonetxb" runat="server" />
+<asp:Label Text="MediaID" ID="MediaIDlbl" runat="server" AssociatedControlID="MediaIDdrp" /><asp:DropDownList ID="MediaIDdrp" runat="server" />
+<asp:Label Text="Fax" ID="Faxlbl" runat="server" AssociatedControlID="Faxtxb" /><asp:TextBox ID="Faxtxb" runat="server" />
+<asp:Label Text="LName" ID="LNamelbl" runat="server" AssociatedControlID="LNametxb" /><asp:TextBox ID="LNametxb" runat="server" /><asp:RequiredFieldValidator ID="LNameVal" runat="server" ControlToValidate="LNametxb" ErrorMessage="*" Text="*"/>
+<asp:Label Text="Company" ID="Companylbl" runat="server" AssociatedControlID="Companytxb" /><asp:TextBox ID="Companytxb" runat="server" /><asp:RequiredFieldValidator ID="CompanyVal" runat="server" ControlToValidate="Companytxb" ErrorMessage="*" Text="*"/>
+<asp:Label Text="IsReporter" ID="IsReporterlbl" runat="server" AssociatedControlID="IsReportertxb" /><asp:TextBox ID="IsReportertxb" runat="server" /><asp:RequiredFieldValidator ID="IsReporterVal" runat="server" ControlToValidate="IsReportertxb" ErrorMessage="*" Text="*"/>

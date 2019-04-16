@@ -1,0 +1,8 @@
+<asp:Label Text="ActionID" ID="ActionIDlbl" runat="server" AssociatedControlID="ActionIDtxb" /><asp:TextBox ID="ActionIDtxb" runat="server" />
+<asp:Label Text="PostedIn" ID="PostedInlbl" runat="server" AssociatedControlID="PostedIntxb" /><asp:TextBox ID="PostedIntxb" runat="server" /><asp:RequiredFieldValidator ID="PostedInVal" runat="server" ControlToValidate="PostedIntxb" ErrorMessage="*" Text="*"/>
+<asp:Label Text="PostedBy" ID="PostedBylbl" runat="server" AssociatedControlID="PostedBydrp" /><asp:DropDownList ID="PostedBydrp" runat="server" /><asp:RequiredFieldValidator ID="PostedByVal" runat="server" ControlToValidate="PostedBydrp" ErrorMessage="*" Text="*"/>
+<asp:Label Text="ArchivedItemType" ID="ArchivedItemTypelbl" runat="server" AssociatedControlID="ArchivedItemTypetxb" /><asp:TextBox ID="ArchivedItemTypetxb" runat="server" />
+<asp:Label Text="MIME" ID="MIMElbl" runat="server" AssociatedControlID="MIMEtxb" /><asp:TextBox ID="MIMEtxb" runat="server" /><asp:RequiredFieldValidator ID="MIMEVal" runat="server" ControlToValidate="MIMEtxb" ErrorMessage="*" Text="*"/>
+<asp:Label Text="ProjectID" ID="ProjectIDlbl" runat="server" AssociatedControlID="ProjectIDdrp" /><asp:DropDownList ID="ProjectIDdrp" runat="server" /><asp:RequiredFieldValidator ID="ProjectIDVal" runat="server" ControlToValidate="ProjectIDdrp" ErrorMessage="*" Text="*"/>
+<asp:Label Text="FileName" ID="FileNamelbl" runat="server" AssociatedControlID="FileNametxb" /><asp:TextBox ID="FileNametxb" runat="server" /><asp:RequiredFieldValidator ID="FileNameVal" runat="server" ControlToValidate="FileNametxb" ErrorMessage="*" Text="*"/>
+<asp:Label Text="FileBody" ID="FileBodylbl" runat="server" AssociatedControlID="FileBodyfil" /><asp:FileUpload ID="FileBodyfil" runat="server" />

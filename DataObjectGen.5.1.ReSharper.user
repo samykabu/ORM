@@ -1,0 +1,365 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6D59D6A8-B8DD-4D9B-9AEF-0897D9165DFC/f:Classes.cs" caret="450" fromTop="18" />
+      <File id="05AF8F56-439F-41D0-AA08-ECCE33621D43/f:ReadingSchema.cs" caret="0" fromTop="0" />
+      <File id="3CE96A1E-0D22-448D-9345-098C6E13E050/f:ISchemaProvider.cs" caret="799" fromTop="16" />
+      <File id="3CE96A1E-0D22-448D-9345-098C6E13E050/f:IDataBaseObject.cs" caret="0" fromTop="0" />
+      <File id="3CE96A1E-0D22-448D-9345-098C6E13E050/f:IConnectionStringBuilder.cs" caret="0" fromTop="0" />
+      <File id="3CE96A1E-0D22-448D-9345-098C6E13E050/d:DB/f:DataBase.cs" caret="238" fromTop="0" />
+      <File id="3CE96A1E-0D22-448D-9345-098C6E13E050/d:DB/f:View.cs" caret="411" fromTop="17" />
+      <File id="3CE96A1E-0D22-448D-9345-098C6E13E050/d:DB/f:Collections.cs" caret="117" fromTop="6" />
+      <File id="6D59D6A8-B8DD-4D9B-9AEF-0897D9165DFC/f:Class.cs" caret="144" fromTop="0" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:TableToPartialClassTemplate.cs" caret="519" fromTop="16" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:DataTypedSetTemplate.cs" caret="9167" fromTop="49" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:Collection.cs" caret="252" fromTop="13" />
+      <File id="05AF8F56-439F-41D0-AA08-ECCE33621D43/f:DataObjectBase.txt" caret="624" fromTop="15" />
+      <File id="05AF8F56-439F-41D0-AA08-ECCE33621D43/f:Program.cs" caret="0" fromTop="0" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:ViewToClass.cs" caret="10092" fromTop="0" />
+      <File id="3CE96A1E-0D22-448D-9345-098C6E13E050/d:DB/f:Keys.cs" caret="1450" fromTop="30" />
+      <File id="3CE96A1E-0D22-448D-9345-098C6E13E050/d:DB/f:Table.cs" caret="400" fromTop="15" />
+      <File id="3CE96A1E-0D22-448D-9345-098C6E13E050/d:DB/f:Column.cs" caret="776" fromTop="35" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:SQL2005SchemaProvider.cs" caret="7185" fromTop="0" />
+      <File id="6D59D6A8-B8DD-4D9B-9AEF-0897D9165DFC/f:ITemplate.cs" caret="516" fromTop="16" />
+      <File id="05AF8F56-439F-41D0-AA08-ECCE33621D43/f:Form1.Designer.cs" caret="0" fromTop="0" />
+      <File id="05AF8F56-439F-41D0-AA08-ECCE33621D43/f:Form1.cs" caret="3014" fromTop="19" />
+      <File id="05AF8F56-439F-41D0-AA08-ECCE33621D43/f:DataBaseObject.cs" caret="0" fromTop="0" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10105" fromTop="38" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:TableStoredProcedures.cs" caret="6851" fromTop="37" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:TableToClassTemplate.cs" caret="40369" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="23" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="5" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="12" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="12" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="26" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="29" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="32" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="42" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="37" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="2115" fromTop="19" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="9" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="14" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="6" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="20" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="23" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="24" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="37" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="19" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="16" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="8" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="14" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="18" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="18" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="23" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="36" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10542" fromTop="30" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10796" fromTop="47" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="9645" fromTop="21" />
+      <File id="05AF8F56-439F-41D0-AA08-ECCE33621D43/f:Form1.cs" caret="3014" fromTop="19" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:GeneratePages.cs" caret="10105" fromTop="32" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="DataBaseName" priority="0" />
+      <Item value="foreach" priority="6" />
+      <Item value="dataBase" priority="2" />
+      <Item value="Database`0" priority="0" />
+      <Item value="SchemaObjects" priority="3" />
+      <Item value="View`0" priority="5" />
+      <Item value="new" priority="12" />
+      <Item value="View" priority="4" />
+      <Item value="System" priority="5" />
+      <Item value="Diagnostics" priority="4" />
+      <Item value="Debug`0" priority="4" />
+      <Item value="view" priority="5" />
+      <Item value="oClass" priority="3" />
+      <Item value="StrongTypedCollection`0" priority="0" />
+      <Item value="loadinDataset" priority="0" />
+      <Item value="Views`0" priority="1" />
+      <Item value="sm" priority="0" />
+      <Item value="tb" priority="6" />
+      <Item value="return" priority="4" />
+      <Item value="null" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="Sql2005Server" priority="0" />
+      <Item value="TableViewBase`0" priority="0" />
+      <Item value="Microsoft" priority="0" />
+      <Item value="SqlServer" priority="0" />
+      <Item value="Server" priority="0" />
+      <Item value="Management" priority="0" />
+      <Item value="Smo" priority="0" />
+      <Item value="column" priority="5" />
+      <Item value="if" priority="10" />
+      <Item value="dview" priority="2" />
+      <Item value="ViewCollection`0" priority="0" />
+      <Item value="ViewCollection" priority="0" />
+      <Item value="Views" priority="0" />
+      <Item value="views" priority="1" />
+      <Item value="void" priority="0" />
+      <Item value="NameSpace" priority="0" />
+      <Item value="private" priority="11" />
+      <Item value="bool" priority="5" />
+      <Item value="false" priority="2" />
+      <Item value="bSerialize" priority="0" />
+      <Item value="public" priority="1" />
+      <Item value="ViewToClass`0" priority="1" />
+      <Item value="ViewToClass" priority="0" />
+      <Item value="vtc" priority="1" />
+      <Item value="strNameSpace" priority="1" />
+      <Item value="strClassPrefix" priority="1" />
+      <Item value="ProcessClass`0" priority="0" />
+      <Item value="tbl" priority="5" />
+      <Item value="ClassName" priority="0" />
+      <Item value="cm" priority="43" />
+      <Item value="true" priority="2" />
+      <Item value="string" priority="21" />
+      <Item value="oTable" priority="4" />
+      <Item value="TextBoxField" priority="1" />
+      <Item value="else" priority="2" />
+      <Item value="switch" priority="0" />
+      <Item value="prop" priority="7" />
+      <Item value="clm" priority="4" />
+      <Item value="Dictionary" priority="2" />
+      <Item value="_ForiegnKeys" priority="1" />
+      <Item value="ToTableName" priority="2" />
+      <Item value="Keys" priority="0" />
+      <Item value="Key" priority="0" />
+      <Item value="KeyName" priority="0" />
+      <Item value="fKeyName" priority="0" />
+      <Item value="Columns" priority="0" />
+      <Item value="oColumn" priority="2" />
+      <Item value="FlagsAttribute`0" priority="0" />
+      <Item value="keyValuePair" priority="0" />
+      <Item value="foreignKey" priority="4" />
+      <Item value="ForeignKey`0" priority="0" />
+      <Item value="IDisposable`0" priority="0" />
+      <Item value="Column`0" priority="2" />
+      <Item value="ForeignKeyColumn`0" priority="0" />
+      <Item value="Column" priority="0" />
+      <Item value="ForiegnKeys`0" priority="0" />
+      <Item value="ForiegnKey" priority="0" />
+      <Item value="ForeginKeyColumn" priority="1" />
+      <Item value="RefrencedColumnName" priority="1" />
+      <Item value="RefrencedTableName" priority="0" />
+      <Item value="RefrencedTable" priority="0" />
+      <Item value="case" priority="3" />
+      <Item value="break" priority="2" />
+      <Item value="GeneratePages`0" priority="0" />
+      <Item value="GeneratePages" priority="0" />
+      <Item value="gp" priority="1" />
+      <Item value="StringBuilder`0" priority="1" />
+      <Item value="StringBuilder" priority="1" />
+      <Item value="FileField" priority="1" />
+      <Item value="formfileds" priority="5" />
+      <Item value="default" priority="1" />
+      <Item value="RequiredTextBoxField" priority="1" />
+      <Item value="RequiredFileField" priority="0" />
+      <Item value="DropDownField" priority="0" />
+      <Item value="RequiredDropDownField" priority="0" />
+      <Item value="saveFunction" priority="3" />
+      <Item value="saveTextcolumn" priority="1" />
+      <Item value="updateTextcolumn" priority="0" />
+      <Item value="updateFunction" priority="0" />
+      <Item value="saveDropDown" priority="0" />
+      <Item value="updateDropDown" priority="0" />
+      <Item value="LoadFunction" priority="3" />
+      <Item value="LoadTextcolumn" priority="2" />
+      <Item value="LoadDropDown" priority="1" />
+      <Item value="clrtyp" priority="0" />
+      <Item value="Dictionary&lt;string,string&gt;" priority="0" />
+      <Item value="short" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="BitConverter`0" priority="0" />
+      <Item value="decimal" priority="0" />
+      <Item value="double" priority="0" />
+      <Item value="Guid`0" priority="0" />
+      <Item value="ParseCLR" priority="1" />
+      <Item value="classname" priority="2" />
+      <Item value="Table`0" priority="0" />
+      <Item value="otable" priority="0" />
+      <Item value="primaryKey" priority="1" />
+      <Item value="pKeys" priority="2" />
+      <Item value="UpdateFunction" priority="2" />
+      <Item value="Class`0" priority="0" />
+      <Item value="sqlFile" priority="1" />
+      <Item value="tbsp" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SchemaObjects.DataBase">
+      <Item value="Views" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="WriteLine`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SchemaObjects.View">
+      <Item value="Name" priority="1" />
+      <Item value="Columns" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CodeGenerator.Class">
+      <Item value="Name" priority="2" />
+      <Item value="NameSpace" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CodeGenerator.Method">
+      <Item value="Body" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="3" />
+      <Item value="AppendFormat`0" priority="4" />
+      <Item value="ToString`0" priority="1" />
+      <Item value="Insert`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sql2005Server.SchemaProvider.SQL2005SchemaProvider">
+      <Item value="Views`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SqlServer.Management.Smo.Database">
+      <Item value="Views" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SqlServer.Management.Smo.View">
+      <Item value="Name" priority="1" />
+      <Item value="Columns" priority="0" />
+      <Item value="IsSystemObject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SqlServer.Management.Smo.Column">
+      <Item value="Name" priority="1" />
+      <Item value="IsForeignKey" priority="0" />
+      <Item value="Computed" priority="2" />
+      <Item value="ComputedText" priority="0" />
+      <Item value="EnumForeignKeys`0" priority="0" />
+      <Item value="DefaultConstraint" priority="1" />
+      <Item value="Parent" priority="1" />
+      <Item value="IsPrecise" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Hashtable">
+      <Item value="Add`0" priority="1" />
+      <Item value="Contains`0" priority="1" />
+      <Item value="Values" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SchemaObjects.Views">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Trim`0" priority="0" />
+      <Item value="Length" priority="1" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="Replace`0" priority="2" />
+      <Item value="ToLower`0" priority="0" />
+      <Item value="Substring`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sql2005Server.ViewToClass">
+      <Item value="OutputDir" priority="0" />
+      <Item value="Process`0" priority="0" />
+      <Item value="SaveToFile`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SchemaObjects.Table">
+      <Item value="Description" priority="0" />
+      <Item value="Columns" priority="3" />
+      <Item value="AddfKey`0" priority="1" />
+      <Item value="Name" priority="1" />
+      <Item value="PrimaryKeys" priority="1" />
+      <Item value="ForiegnKeys" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SchemaObjects.Column">
+      <Item value="IsNullable" priority="4" />
+      <Item value="SqlType" priority="0" />
+      <Item value="ComputedSQLText" priority="0" />
+      <Item value="Name" priority="14" />
+      <Item value="IsForignKey" priority="3" />
+      <Item value="IsComputed" priority="1" />
+      <Item value="CLRType" priority="5" />
+      <Item value="IsPrimaryKey" priority="0" />
+      <Item value="InPrimaryKey" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey`0" priority="0" />
+      <Item value="Add`0" priority="0" />
+      <Item value="Indexer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SchemaObjects.Keys">
+      <Item value="Add`0" priority="1" />
+      <Item value="Indexer" priority="0" />
+      <Item value="Contains`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SqlServer.Management.Smo.Table">
+      <Item value="ForeignKeys" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SqlServer.Management.Smo.ForeignKey">
+      <Item value="Columns" priority="4" />
+      <Item value="Name" priority="0" />
+      <Item value="ReferencedTable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SqlServer.Management.Smo.ForeignKeyColumnCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SqlServer.Management.Smo.ForeignKeyColumn">
+      <Item value="Name" priority="3" />
+      <Item value="Parent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SchemaObjects.ForiegnKey">
+      <Item value="ForeginKeyColumn" priority="0" />
+      <Item value="RefrencedTableName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SchemaObjects.ForiegnKeys">
+      <Item value="Contains`0" priority="0" />
+      <Item value="Add`0" priority="0" />
+      <Item value="Item`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sql2005Server.GeneratePages">
+      <Item value="Process`0" priority="0" />
+      <Item value="OutputDir" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int64">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Boolean">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Decimal">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileStream">
+      <Item value="Close`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sql2005Server.TableStoredProcedures">
+      <Item value="OutputDir" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

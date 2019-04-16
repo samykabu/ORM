@@ -1,0 +1,3 @@
+<asp:Label Text="MediaID" ID="MediaIDlbl" runat="server" AssociatedControlID="MediaIDdrp" /><asp:DropDownList ID="MediaIDdrp" runat="server" /><asp:RequiredFieldValidator ID="MediaIDVal" runat="server" ControlToValidate="MediaIDdrp" ErrorMessage="*" Text="*"/>
+<asp:Label Text="Title" ID="Titlelbl" runat="server" AssociatedControlID="Titletxb" /><asp:TextBox ID="Titletxb" runat="server" /><asp:RequiredFieldValidator ID="TitleVal" runat="server" ControlToValidate="Titletxb" ErrorMessage="*" Text="*"/>
+<asp:Label Text="Value" ID="Valuelbl" runat="server" AssociatedControlID="Valuetxb" /><asp:TextBox ID="Valuetxb" runat="server" /><asp:RequiredFieldValidator ID="ValueVal" runat="server" ControlToValidate="Valuetxb" ErrorMessage="*" Text="*"/>

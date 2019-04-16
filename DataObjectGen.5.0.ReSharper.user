@@ -1,0 +1,72 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="05AF8F56-439F-41D0-AA08-ECCE33621D43/f:DataBaseObject.cs" caret="25121" fromTop="393" />
+      <File id="05AF8F56-439F-41D0-AA08-ECCE33621D43/f:DataObjectBase.txt" caret="23695" fromTop="49" />
+      <File id="6D59D6A8-B8DD-4D9B-9AEF-0897D9165DFC/f:Classes.cs" caret="450" fromTop="18" />
+      <File id="05AF8F56-439F-41D0-AA08-ECCE33621D43/f:ReadingSchema.cs" caret="0" fromTop="0" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:DataTypedSetTemplate.cs" caret="0" fromTop="0" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:Collection.cs" caret="0" fromTop="0" />
+      <File id="3CE96A1E-0D22-448D-9345-098C6E13E050/f:ISchemaProvider.cs" caret="799" fromTop="16" />
+      <File id="3CE96A1E-0D22-448D-9345-098C6E13E050/f:IDataBaseObject.cs" caret="0" fromTop="0" />
+      <File id="3CE96A1E-0D22-448D-9345-098C6E13E050/f:IConnectionStringBuilder.cs" caret="0" fromTop="0" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:TableStoredProcedures.cs" caret="0" fromTop="0" />
+      <File id="05AF8F56-439F-41D0-AA08-ECCE33621D43/f:Form1.cs" caret="2889" fromTop="12" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:SQL2005SchemaProvider.cs" caret="6654" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="05AF8F56-439F-41D0-AA08-ECCE33621D43/f:DataObjectBase.txt" caret="23695" fromTop="49" />
+      <File id="05AF8F56-439F-41D0-AA08-ECCE33621D43/f:DataBaseObject.cs" caret="25121" fromTop="48" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:SQL2005SchemaProvider.cs" caret="1586" fromTop="20" />
+      <File id="3CE96A1E-0D22-448D-9345-098C6E13E050/f:ISchemaProvider.cs" caret="799" fromTop="16" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:SQL2005SchemaProvider.cs" caret="7300" fromTop="26" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:SQL2005SchemaProvider.cs" caret="7644" fromTop="36" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:SQL2005SchemaProvider.cs" caret="7829" fromTop="41" />
+      <File id="1CDBE597-4FE1-4605-BF26-58947182859B/f:SQL2005SchemaProvider.cs" caret="7110" fromTop="31" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="DataBaseName" priority="0" />
+      <Item value="foreach" priority="1" />
+      <Item value="dataBase" priority="1" />
+      <Item value="Database`0" priority="0" />
+      <Item value="SchemaObjects" priority="0" />
+      <Item value="View`0" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="View" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Diagnostics" priority="0" />
+      <Item value="Debug`0" priority="0" />
+      <Item value="view" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SchemaObjects.DataBase">
+      <Item value="Views" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SchemaObjects.View">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

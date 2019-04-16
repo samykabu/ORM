@@ -1,0 +1,2 @@
+<asp:Label Text="MediatypeID" ID="MediatypeIDlbl" runat="server" AssociatedControlID="MediatypeIDdrp" /><asp:DropDownList ID="MediatypeIDdrp" runat="server" /><asp:RequiredFieldValidator ID="MediatypeIDVal" runat="server" ControlToValidate="MediatypeIDdrp" ErrorMessage="*" Text="*"/>
+<asp:Label Text="Title" ID="Titlelbl" runat="server" AssociatedControlID="Titletxb" /><asp:TextBox ID="Titletxb" runat="server" /><asp:RequiredFieldValidator ID="TitleVal" runat="server" ControlToValidate="Titletxb" ErrorMessage="*" Text="*"/>

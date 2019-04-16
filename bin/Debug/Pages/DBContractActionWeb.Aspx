@@ -1,0 +1,5 @@
+<asp:Label Text="ContractCount" ID="ContractCountlbl" runat="server" AssociatedControlID="ContractCounttxb" /><asp:TextBox ID="ContractCounttxb" runat="server" /><asp:RequiredFieldValidator ID="ContractCountVal" runat="server" ControlToValidate="ContractCounttxb" ErrorMessage="*" Text="*"/>
+<asp:Label Text="DueIn" ID="DueInlbl" runat="server" AssociatedControlID="DueIntxb" /><asp:TextBox ID="DueIntxb" runat="server" />
+<asp:Label Text="StartIn" ID="StartInlbl" runat="server" AssociatedControlID="StartIntxb" /><asp:TextBox ID="StartIntxb" runat="server" />
+<asp:Label Text="ContractActionID" ID="ContractActionIDlbl" runat="server" AssociatedControlID="ContractActionIDtxb" /><asp:TextBox ID="ContractActionIDtxb" runat="server" /><asp:RequiredFieldValidator ID="ContractActionIDVal" runat="server" ControlToValidate="ContractActionIDtxb" ErrorMessage="*" Text="*"/>
+<asp:Label Text="CurrentCount" ID="CurrentCountlbl" runat="server" AssociatedControlID="CurrentCounttxb" /><asp:TextBox ID="CurrentCounttxb" runat="server" /><asp:RequiredFieldValidator ID="CurrentCountVal" runat="server" ControlToValidate="CurrentCounttxb" ErrorMessage="*" Text="*"/>

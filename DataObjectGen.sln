@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjectGen", "DataObjectGen.csproj", "{05AF8F56-439F-41D0-AA08-ECCE33621D43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGenerator", "CodeGenerator\CodeGenerator.csproj", "{6D59D6A8-B8DD-4D9B-9AEF-0897D9165DFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchemaObjects", "DataBaseManagerInterface\SchemaObjects.csproj", "{3CE96A1E-0D22-448D-9345-098C6E13E050}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sql2005Server", "SqlGen\Sql2005Server.csproj", "{1CDBE597-4FE1-4605-BF26-58947182859B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseObjects", "MySQLServer\DatabaseObjects.csproj", "{ED100C82-6E82-43C9-B100-BA8D7CE5BF50}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "New ROM", "New ROM", "{4FF3FFAC-8747-4087-AC2D-FC21AEA9A35A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLServerImp", "SQLServerImp\SQLServerImp.csproj", "{362EEFAC-7C2E-4C88-A0B9-900C40E22DC0}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://samyhp:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CodeGenerator\\CodeGenerator.csproj
+		SccProjectName1 = CodeGenerator
+		SccLocalPath1 = CodeGenerator
+		SccProjectUniqueName2 = DataBaseManagerInterface\\SchemaObjects.csproj
+		SccProjectName2 = DataBaseManagerInterface
+		SccLocalPath2 = DataBaseManagerInterface
+		SccProjectUniqueName3 = DataObjectGen.csproj
+		SccLocalPath3 = .
+		SccProjectUniqueName4 = MySQLServer\\DatabaseObjects.csproj
+		SccProjectTopLevelParentUniqueName4 = DataObjectGen.sln
+		SccProjectName4 = MySQLServer
+		SccLocalPath4 = MySQLServer
+		SccProjectUniqueName5 = SqlGen\\Sql2005Server.csproj
+		SccProjectName5 = SqlGen
+		SccLocalPath5 = SqlGen
+		SccProjectUniqueName6 = SQLServerImp\\SQLServerImp.csproj
+		SccProjectTopLevelParentUniqueName6 = DataObjectGen.sln
+		SccProjectName6 = SQLServerImp
+		SccLocalPath6 = SQLServerImp
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05AF8F56-439F-41D0-AA08-ECCE33621D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05AF8F56-439F-41D0-AA08-ECCE33621D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05AF8F56-439F-41D0-AA08-ECCE33621D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05AF8F56-439F-41D0-AA08-ECCE33621D43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D59D6A8-B8DD-4D9B-9AEF-0897D9165DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D59D6A8-B8DD-4D9B-9AEF-0897D9165DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D59D6A8-B8DD-4D9B-9AEF-0897D9165DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D59D6A8-B8DD-4D9B-9AEF-0897D9165DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE96A1E-0D22-448D-9345-098C6E13E050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE96A1E-0D22-448D-9345-098C6E13E050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE96A1E-0D22-448D-9345-098C6E13E050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE96A1E-0D22-448D-9345-098C6E13E050}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CDBE597-4FE1-4605-BF26-58947182859B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CDBE597-4FE1-4605-BF26-58947182859B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CDBE597-4FE1-4605-BF26-58947182859B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CDBE597-4FE1-4605-BF26-58947182859B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED100C82-6E82-43C9-B100-BA8D7CE5BF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED100C82-6E82-43C9-B100-BA8D7CE5BF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED100C82-6E82-43C9-B100-BA8D7CE5BF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED100C82-6E82-43C9-B100-BA8D7CE5BF50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{362EEFAC-7C2E-4C88-A0B9-900C40E22DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362EEFAC-7C2E-4C88-A0B9-900C40E22DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362EEFAC-7C2E-4C88-A0B9-900C40E22DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362EEFAC-7C2E-4C88-A0B9-900C40E22DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ED100C82-6E82-43C9-B100-BA8D7CE5BF50} = {4FF3FFAC-8747-4087-AC2D-FC21AEA9A35A}
+		{362EEFAC-7C2E-4C88-A0B9-900C40E22DC0} = {4FF3FFAC-8747-4087-AC2D-FC21AEA9A35A}
+	EndGlobalSection
+EndGlobal

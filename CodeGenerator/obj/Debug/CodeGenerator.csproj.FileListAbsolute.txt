@@ -1,0 +1,14 @@
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\CodeGenerator\bin\Debug\CodeGenerator.dll
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\CodeGenerator\bin\Debug\CodeGenerator.pdb
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\CodeGenerator\bin\Debug\SchemaObjects.dll
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\CodeGenerator\bin\Debug\SchemaObjects.pdb
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\CodeGenerator\obj\Debug\ResolveAssemblyReference.cache
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\CodeGenerator\obj\Debug\CodeGenerator.dll
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\CodeGenerator\obj\Debug\CodeGenerator.pdb
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\CodeGenerator\bin\Debug\CodeGenerator.dll
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\CodeGenerator\bin\Debug\CodeGenerator.pdb
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\CodeGenerator\bin\Debug\SchemaObjects.dll
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\CodeGenerator\bin\Debug\SchemaObjects.pdb
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\CodeGenerator\obj\Debug\ResolveAssemblyReference.cache
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\CodeGenerator\obj\Debug\CodeGenerator.dll
+D:\Development Projects\Personal Project\Under Development\ORM Generator\Data Object Generator Solution\CodeGenerator\obj\Debug\CodeGenerator.pdb

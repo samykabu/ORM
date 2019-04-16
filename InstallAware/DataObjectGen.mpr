@@ -1,0 +1,95 @@
+DataObjectGen.mia
+prereq.dfm
+prereq.dfm.miaf
+componentstree.dfm
+componentstree.dfm.miaf
+wizard.dfm
+wizard.dfm.miaf
+welcome.dfm
+welcome.dfm.miaf
+startmenu.dfm
+startmenu.dfm.miaf
+setuptype.dfm
+setuptype.dfm.miaf
+registrationwithserial.dfm
+registrationwithserial.dfm.miaf
+registration.dfm
+registration.dfm.miaf
+readme.dfm
+readme.dfm.miaf
+startinstallation.dfm
+startinstallation.dfm.miaf
+progressprereq.dfm
+progressprereq.dfm.miaf
+destination.dfm
+destination.dfm.miaf
+finish.dfm
+finish.dfm.miaf
+licensecheck.dfm
+licensecheck.dfm.miaf
+maintenance.dfm
+maintenance.dfm.miaf
+progress.dfm
+progress.dfm.miaf
+$
+$
+$
+$
+0
+4
+TRUE
+
+Administrator
+DataObjectGen
+{f0f42e02-2ea8-4e85-b730-e2c1ef6be9ab}
+{b7f673a0-9338-441e-aae6-af97a047a37b}
+1.0.0.0
+English
+DataObjectGen
+DataObjectGen
+Administrator
+DataObjectGen
+{b625c327-dbf3-4705-a6c0-4c97d81b1d99}
+Administrator
+Administrator
+http://www.mywebsite.com
+http://www.mywebsite.com
+All Rights Reserved
+FALSE
+
+TRUE
+FALSE
+
+
+
+
+UAC=asInvoker
+$
+$
+
+
+
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+FALSE
+
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\InstallAware\InstallAutogen.mia
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\InstallAware\UninstallAutogen.mia
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\InstallAware\PostInstallAutogen.mia
+D:\Development Projects\Projects\Private\Under Development\ORM Generator\Data Object Generator Solution\InstallAware\FinishAutogen.mia
+C:\Program Files (x86)\InstallAware\InstallAware 9 R2\runtimes\checkmsi30.mia
+C:\Program Files (x86)\InstallAware\InstallAware 9 R2\runtimes\checknet20.mia
+C:\Program Files (x86)\InstallAware\InstallAware 9 R2\runtimes\setupmsi30.mia
+C:\Program Files (x86)\InstallAware\InstallAware 9 R2\runtimes\setupnet20.mia
+$
+FALSE
+
+FALSE
+FALSE
+FALSE
+FALSE

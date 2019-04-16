@@ -1,0 +1,6 @@
+<asp:Label Text="CreatedBy" ID="CreatedBylbl" runat="server" AssociatedControlID="CreatedBydrp" /><asp:DropDownList ID="CreatedBydrp" runat="server" /><asp:RequiredFieldValidator ID="CreatedByVal" runat="server" ControlToValidate="CreatedBydrp" ErrorMessage="*" Text="*"/>
+<asp:Label Text="CreatedIn" ID="CreatedInlbl" runat="server" AssociatedControlID="CreatedIntxb" /><asp:TextBox ID="CreatedIntxb" runat="server" /><asp:RequiredFieldValidator ID="CreatedInVal" runat="server" ControlToValidate="CreatedIntxb" ErrorMessage="*" Text="*"/>
+<asp:Label Text="Name" ID="Namelbl" runat="server" AssociatedControlID="Nametxb" /><asp:TextBox ID="Nametxb" runat="server" /><asp:RequiredFieldValidator ID="NameVal" runat="server" ControlToValidate="Nametxb" ErrorMessage="*" Text="*"/>
+<asp:Label Text="ClientID" ID="ClientIDlbl" runat="server" AssociatedControlID="ClientIDdrp" /><asp:DropDownList ID="ClientIDdrp" runat="server" /><asp:RequiredFieldValidator ID="ClientIDVal" runat="server" ControlToValidate="ClientIDdrp" ErrorMessage="*" Text="*"/>
+<asp:Label Text="Description" ID="Descriptionlbl" runat="server" AssociatedControlID="Descriptiontxb" /><asp:TextBox ID="Descriptiontxb" runat="server" />
+<asp:Label Text="Logo" ID="Logolbl" runat="server" AssociatedControlID="Logofil" /><asp:FileUpload ID="Logofil" runat="server" />

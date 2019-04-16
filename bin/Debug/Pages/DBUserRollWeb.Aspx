@@ -1,0 +1,2 @@
+<asp:Label Text="UserID" ID="UserIDlbl" runat="server" AssociatedControlID="UserIDdrp" /><asp:DropDownList ID="UserIDdrp" runat="server" /><asp:RequiredFieldValidator ID="UserIDVal" runat="server" ControlToValidate="UserIDdrp" ErrorMessage="*" Text="*"/>
+<asp:Label Text="RollID" ID="RollIDlbl" runat="server" AssociatedControlID="RollIDdrp" /><asp:DropDownList ID="RollIDdrp" runat="server" /><asp:RequiredFieldValidator ID="RollIDVal" runat="server" ControlToValidate="RollIDdrp" ErrorMessage="*" Text="*"/>
